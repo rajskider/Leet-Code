@@ -39,11 +39,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/rajskider/Leet-Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rajskider/Leet-Code/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rajskider/Leet-Code/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/rajskider/Leet-Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rajskider/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rajskider/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
