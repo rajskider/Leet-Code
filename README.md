@@ -101,6 +101,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajskider/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/rajskider/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
+| [0680-valid-palindrome-ii](https://github.com/rajskider/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 ## Counting
 |  |
 | ------- |
@@ -112,8 +113,13 @@
 | [0125-valid-palindrome](https://github.com/rajskider/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rajskider/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
+| [0680-valid-palindrome-ii](https://github.com/rajskider/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/rajskider/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
