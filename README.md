@@ -96,6 +96,7 @@
 | [0016-3sum-closest](https://github.com/rajskider/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rajskider/Leet-Code/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rajskider/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajskider/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/rajskider/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/rajskider/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rajskider/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
 ## Simulation
