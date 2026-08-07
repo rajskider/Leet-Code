@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajskider/Leet-Code/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/rajskider/Leet-Code/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/rajskider/Leet-Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
@@ -70,5 +71,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rajskider/Leet-Code/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/rajskider/Leet-Code/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
