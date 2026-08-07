@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajskider/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rajskider/Leet-Code/tree/master/0875-koko-eating-bananas) |
+| [0989-add-to-array-form-of-integer](https://github.com/rajskider/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajskider/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajskider/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -40,6 +41,7 @@
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajskider/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajskider/Leet-Code/tree/master/0342-power-of-four) |
+| [0989-add-to-array-form-of-integer](https://github.com/rajskider/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajskider/Leet-Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajskider/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
