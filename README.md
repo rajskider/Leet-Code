@@ -37,6 +37,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rajskider/Leet-Code/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/rajskider/Leet-Code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rajskider/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajskider/Leet-Code/tree/master/0326-power-of-three) |
@@ -56,6 +57,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rajskider/Leet-Code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/rajskider/Leet-Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rajskider/Leet-Code/tree/master/0191-number-of-1-bits) |
@@ -104,6 +106,11 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/rajskider/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
