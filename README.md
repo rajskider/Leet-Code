@@ -89,6 +89,7 @@
 | [0018-4sum](https://github.com/rajskider/Leet-Code/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajskider/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/rajskider/Leet-Code/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
 ## Counting
 |  |
 | ------- |
@@ -97,4 +98,5 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/rajskider/Leet-Code/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
