@@ -16,6 +16,7 @@
 | [0875-koko-eating-bananas](https://github.com/rajskider/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajskider/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajskider/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rajskider/Leet-Code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rajskider/Leet-Code/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 | [0016-3sum-closest](https://github.com/rajskider/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rajskider/Leet-Code/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajskider/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
