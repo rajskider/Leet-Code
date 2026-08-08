@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rajskider/Leet-Code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajskider/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/rajskider/Leet-Code/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajskider/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajskider/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -47,6 +48,7 @@
 | [0048-rotate-image](https://github.com/rajskider/Leet-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rajskider/Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/rajskider/Leet-Code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rajskider/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajskider/Leet-Code/tree/master/0326-power-of-three) |
@@ -57,6 +59,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rajskider/Leet-Code/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajskider/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
@@ -148,4 +151,20 @@
 | [0074-search-a-2d-matrix](https://github.com/rajskider/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajskider/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajskider/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rajskider/Leet-Code/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rajskider/Leet-Code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rajskider/Leet-Code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rajskider/Leet-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
