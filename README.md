@@ -26,6 +26,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/rajskider/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajskider/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajskider/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rajskider/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajskider/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rajskider/Leet-Code/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -45,6 +46,7 @@
 | [0875-koko-eating-bananas](https://github.com/rajskider/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajskider/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajskider/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rajskider/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rajskider/Leet-Code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Math
 |  |
@@ -117,6 +119,7 @@
 | [0088-merge-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajskider/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rajskider/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
 | ------- |
