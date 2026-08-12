@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/rajskider/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rajskider/Leet-Code/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rajskider/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/rajskider/Leet-Code/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rajskider/Leet-Code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajskider/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/rajskider/Leet-Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rajskider/Leet-Code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/rajskider/Leet-Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rajskider/Leet-Code/tree/master/0191-number-of-1-bits) |
@@ -203,4 +205,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajskider/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rajskider/Leet-Code/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rajskider/Leet-Code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
