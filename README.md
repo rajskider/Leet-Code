@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajskider/Leet-Code/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/rajskider/Leet-Code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rajskider/Leet-Code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/rajskider/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajskider/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rajskider/Leet-Code/tree/master/0066-plus-one) |
@@ -127,6 +128,7 @@
 | [0015-3sum](https://github.com/rajskider/Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rajskider/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rajskider/Leet-Code/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/rajskider/Leet-Code/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajskider/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -223,6 +225,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajskider/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/rajskider/Leet-Code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rajskider/Leet-Code/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/rajskider/Leet-Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rajskider/Leet-Code/tree/master/0090-subsets-ii) |
 ## Counting Sort
