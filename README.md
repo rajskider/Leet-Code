@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/rajskider/Leet-Code/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rajskider/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rajskider/Leet-Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rajskider/Leet-Code/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rajskider/Leet-Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rajskider/Leet-Code/tree/master/0136-single-number) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajskider/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/rajskider/Leet-Code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rajskider/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rajskider/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
@@ -184,6 +186,7 @@
 | [0048-rotate-image](https://github.com/rajskider/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajskider/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rajskider/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rajskider/Leet-Code/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajskider/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajskider/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Number Theory
@@ -227,6 +230,7 @@
 | [0046-permutations](https://github.com/rajskider/Leet-Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rajskider/Leet-Code/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/rajskider/Leet-Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rajskider/Leet-Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rajskider/Leet-Code/tree/master/0090-subsets-ii) |
 ## Counting Sort
 |  |
@@ -236,4 +240,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajskider/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rajskider/Leet-Code/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
