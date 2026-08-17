@@ -28,6 +28,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rajskider/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajskider/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rajskider/Leet-Code/tree/master/0875-koko-eating-bananas) |
+| [0980-unique-paths-iii](https://github.com/rajskider/Leet-Code/tree/master/0980-unique-paths-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/rajskider/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajskider/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajskider/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -101,6 +102,7 @@
 | [0231-power-of-two](https://github.com/rajskider/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rajskider/Leet-Code/tree/master/0342-power-of-four) |
+| [0980-unique-paths-iii](https://github.com/rajskider/Leet-Code/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/rajskider/Leet-Code/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
@@ -188,6 +190,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rajskider/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rajskider/Leet-Code/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajskider/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0980-unique-paths-iii](https://github.com/rajskider/Leet-Code/tree/master/0980-unique-paths-iii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajskider/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Number Theory
 |  |
@@ -232,6 +235,7 @@
 | [0078-subsets](https://github.com/rajskider/Leet-Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajskider/Leet-Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rajskider/Leet-Code/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/rajskider/Leet-Code/tree/master/0980-unique-paths-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -244,4 +248,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajskider/Leet-Code/tree/master/0079-word-search) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/rajskider/Leet-Code/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
