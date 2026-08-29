@@ -73,6 +73,7 @@
 | [0009-palindrome-number](https://github.com/rajskider/Leet-Code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rajskider/Leet-Code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rajskider/Leet-Code/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/rajskider/Leet-Code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rajskider/Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rajskider/Leet-Code/tree/master/0069-sqrtx) |
@@ -238,6 +239,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajskider/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajskider/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rajskider/Leet-Code/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -271,4 +273,8 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/rajskider/Leet-Code/tree/master/0980-unique-paths-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rajskider/Leet-Code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
