@@ -41,6 +41,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajskider/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rajskider/Leet-Code/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rajskider/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rajskider/Leet-Code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajskider/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajskider/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/rajskider/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rajskider/Leet-Code/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rajskider/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
 |  |
 | ------- |
