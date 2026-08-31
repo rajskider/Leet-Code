@@ -136,6 +136,7 @@
 | [0001-two-sum](https://github.com/rajskider/Leet-Code/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajskider/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
+| [1189-maximum-number-of-balloons](https://github.com/rajskider/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajskider/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajskider/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -170,6 +171,7 @@
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rajskider/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
@@ -183,6 +185,7 @@
 | [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/rajskider/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajskider/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/rajskider/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajskider/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajskider/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajskider/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
