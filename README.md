@@ -37,6 +37,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajskider/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajskider/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rajskider/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
+| [1732-find-the-highest-altitude](https://github.com/rajskider/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajskider/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajskider/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -285,4 +286,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rajskider/Leet-Code/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/rajskider/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
