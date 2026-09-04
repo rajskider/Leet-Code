@@ -49,6 +49,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajskider/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rajskider/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rajskider/Leet-Code/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/rajskider/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -292,4 +293,5 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/rajskider/Leet-Code/tree/master/1732-find-the-highest-altitude) |
+| [3903-smallest-stable-index-i](https://github.com/rajskider/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
