@@ -187,6 +187,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajskider/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/rajskider/Leet-Code/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/rajskider/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/rajskider/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rajskider/Leet-Code/tree/master/0344-reverse-string) |
 | [0504-base-7](https://github.com/rajskider/Leet-Code/tree/master/0504-base-7) |
@@ -254,6 +255,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/rajskider/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajskider/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/rajskider/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/rajskider/Leet-Code/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
