@@ -143,6 +143,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rajskider/Leet-Code/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajskider/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/rajskider/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/rajskider/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajskider/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -158,6 +159,7 @@
 | [0018-4sum](https://github.com/rajskider/Leet-Code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/rajskider/Leet-Code/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/rajskider/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajskider/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/rajskider/Leet-Code/tree/master/0905-sort-array-by-parity) |
@@ -189,6 +191,7 @@
 | [0079-word-search](https://github.com/rajskider/Leet-Code/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/rajskider/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/rajskider/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/rajskider/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rajskider/Leet-Code/tree/master/0344-reverse-string) |
 | [0504-base-7](https://github.com/rajskider/Leet-Code/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
