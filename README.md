@@ -39,6 +39,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/rajskider/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/rajskider/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajskider/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1929-concatenation-of-array](https://github.com/rajskider/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajskider/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rajskider/Leet-Code/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -209,6 +210,7 @@
 | [0054-spiral-matrix](https://github.com/rajskider/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajskider/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/rajskider/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajskider/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
