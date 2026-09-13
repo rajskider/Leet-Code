@@ -309,4 +309,8 @@
 | [1732-find-the-highest-altitude](https://github.com/rajskider/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/rajskider/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rajskider/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/rajskider/Leet-Code/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
