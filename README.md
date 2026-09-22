@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rajskider/Leet-Code/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/rajskider/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rajskider/Leet-Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rajskider/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajskider/Leet-Code/tree/master/0342-power-of-four) |
@@ -318,6 +319,7 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/rajskider/Leet-Code/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/rajskider/Leet-Code/tree/master/0206-reverse-linked-list) |
 ## Geometry
 |  |
 | ------- |
