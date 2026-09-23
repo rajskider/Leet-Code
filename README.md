@@ -182,6 +182,7 @@
 | [0015-3sum](https://github.com/rajskider/Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rajskider/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rajskider/Leet-Code/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rajskider/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rajskider/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajskider/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -318,6 +319,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rajskider/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rajskider/Leet-Code/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/rajskider/Leet-Code/tree/master/0206-reverse-linked-list) |
 ## Geometry
