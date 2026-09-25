@@ -210,6 +210,7 @@
 | [0504-base-7](https://github.com/rajskider/Leet-Code/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/rajskider/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/rajskider/Leet-Code/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajskider/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/rajskider/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajskider/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -328,4 +329,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rajskider/Leet-Code/tree/master/0836-rectangle-overlap) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/rajskider/Leet-Code/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
