@@ -11,6 +11,6 @@ public:
                 return false;
             else st.pop();
         }
-        return (st.empty()) ? true : false;
+        return st.empty();
     }
 };
