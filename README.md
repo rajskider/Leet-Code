@@ -21,6 +21,7 @@
 | [0088-merge-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rajskider/Leet-Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rajskider/Leet-Code/tree/master/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rajskider/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajskider/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/rajskider/Leet-Code/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajskider/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
@@ -65,6 +66,7 @@
 | [0035-search-insert-position](https://github.com/rajskider/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rajskider/Leet-Code/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rajskider/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rajskider/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajskider/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajskider/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
