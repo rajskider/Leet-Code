@@ -140,6 +140,7 @@
 | [0342-power-of-four](https://github.com/rajskider/Leet-Code/tree/master/0342-power-of-four) |
 | [0980-unique-paths-iii](https://github.com/rajskider/Leet-Code/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/rajskider/Leet-Code/tree/master/1009-complement-of-base-10-integer) |
+| [2351-first-letter-to-appear-twice](https://github.com/rajskider/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajskider/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajskider/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/rajskider/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajskider/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rajskider/Leet-Code/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajskider/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -208,6 +210,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rajskider/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/rajskider/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [3866-first-unique-even-element](https://github.com/rajskider/Leet-Code/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -233,6 +236,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajskider/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajskider/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajskider/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2351-first-letter-to-appear-twice](https://github.com/rajskider/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajskider/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rajskider/Leet-Code/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
