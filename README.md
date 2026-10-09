@@ -50,6 +50,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rajskider/Leet-Code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2574-left-and-right-sum-differences](https://github.com/rajskider/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajskider/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rajskider/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajskider/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajskider/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajskider/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -170,6 +171,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/rajskider/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajskider/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rajskider/Leet-Code/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rajskider/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajskider/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajskider/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajskider/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -356,6 +358,7 @@
 | [0141-linked-list-cycle](https://github.com/rajskider/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rajskider/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajskider/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rajskider/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Geometry
 |  |
 | ------- |
