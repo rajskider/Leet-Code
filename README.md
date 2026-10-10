@@ -239,6 +239,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajskider/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajskider/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/rajskider/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/rajskider/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajskider/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rajskider/Leet-Code/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
@@ -248,6 +249,7 @@
 | [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajskider/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/rajskider/Leet-Code/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/rajskider/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajskider/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
@@ -264,6 +266,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajskider/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajskider/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajskider/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/rajskider/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 ## Matrix
 |  |
 | ------- |
