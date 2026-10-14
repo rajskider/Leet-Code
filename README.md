@@ -39,6 +39,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajskider/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajskider/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rajskider/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/rajskider/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/rajskider/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajskider/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajskider/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -279,6 +280,7 @@
 | [0079-word-search](https://github.com/rajskider/Leet-Code/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajskider/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/rajskider/Leet-Code/tree/master/0980-unique-paths-iii) |
+| [1572-matrix-diagonal-sum](https://github.com/rajskider/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajskider/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Number Theory
 |  |
