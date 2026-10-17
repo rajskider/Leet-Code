@@ -393,4 +393,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajskider/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/rajskider/Leet-Code/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
