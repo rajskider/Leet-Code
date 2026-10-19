@@ -397,4 +397,5 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/rajskider/Leet-Code/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/rajskider/Leet-Code/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
