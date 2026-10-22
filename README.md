@@ -212,6 +212,7 @@
 | [0344-reverse-string](https://github.com/rajskider/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rajskider/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/rajskider/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/rajskider/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/rajskider/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajskider/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting
@@ -370,6 +371,7 @@
 | [0141-linked-list-cycle](https://github.com/rajskider/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajskider/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/rajskider/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/rajskider/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajskider/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rajskider/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Geometry
