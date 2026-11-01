@@ -48,6 +48,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajskider/Leet-Code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rajskider/Leet-Code/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rajskider/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rajskider/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rajskider/Leet-Code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2574-left-and-right-sum-differences](https://github.com/rajskider/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajskider/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -216,6 +217,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/rajskider/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/rajskider/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajskider/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rajskider/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Counting
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajskider/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/rajskider/Leet-Code/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rajskider/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/rajskider/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajskider/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
