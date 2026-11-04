@@ -26,6 +26,7 @@
 | [0204-count-primes](https://github.com/rajskider/Leet-Code/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajskider/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rajskider/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajskider/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajskider/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -105,6 +106,7 @@
 | [0326-power-of-three](https://github.com/rajskider/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajskider/Leet-Code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rajskider/Leet-Code/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rajskider/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/rajskider/Leet-Code/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/rajskider/Leet-Code/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rajskider/Leet-Code/tree/master/0509-fibonacci-number) |
