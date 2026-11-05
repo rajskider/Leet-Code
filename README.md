@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/rajskider/Leet-Code/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajskider/Leet-Code/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/rajskider/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rajskider/Leet-Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rajskider/Leet-Code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/rajskider/Leet-Code/tree/master/0048-rotate-image) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rajskider/Leet-Code/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajskider/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/rajskider/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/rajskider/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajskider/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/rajskider/Leet-Code/tree/master/0242-valid-anagram) |
