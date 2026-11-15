@@ -118,6 +118,7 @@
 | [0836-rectangle-overlap](https://github.com/rajskider/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/rajskider/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajskider/Leet-Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/rajskider/Leet-Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajskider/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajskider/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajskider/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -300,6 +301,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajskider/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajskider/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/rajskider/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/rajskider/Leet-Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -405,6 +407,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/rajskider/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rajskider/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajskider/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/rajskider/Leet-Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rajskider/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Geometry
 |  |
