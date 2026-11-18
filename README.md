@@ -274,6 +274,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/rajskider/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/rajskider/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/rajskider/Leet-Code/tree/master/2785-sort-vowels-in-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rajskider/Leet-Code/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajskider/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rajskider/Leet-Code/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
