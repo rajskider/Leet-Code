@@ -53,6 +53,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rajskider/Leet-Code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajskider/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rajskider/Leet-Code/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rajskider/Leet-Code/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/rajskider/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajskider/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajskider/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -215,6 +216,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajskider/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rajskider/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/rajskider/Leet-Code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rajskider/Leet-Code/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/rajskider/Leet-Code/tree/master/2785-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
@@ -293,6 +295,7 @@
 | [0680-valid-palindrome-ii](https://github.com/rajskider/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rajskider/Leet-Code/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rajskider/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rajskider/Leet-Code/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Stack
 |  |
 | ------- |
