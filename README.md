@@ -304,6 +304,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajskider/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rajskider/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/rajskider/Leet-Code/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/rajskider/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajskider/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajskider/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -458,6 +459,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rajskider/Leet-Code/tree/master/0155-min-stack) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajskider/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
