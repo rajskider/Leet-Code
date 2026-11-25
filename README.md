@@ -30,6 +30,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rajskider/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajskider/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajskider/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/rajskider/Leet-Code/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajskider/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rajskider/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/rajskider/Leet-Code/tree/master/0905-sort-array-by-parity) |
@@ -287,6 +288,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajskider/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rajskider/Leet-Code/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/rajskider/Leet-Code/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rajskider/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/rajskider/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajskider/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -306,6 +308,7 @@
 | [0032-longest-valid-parentheses](https://github.com/rajskider/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/rajskider/Leet-Code/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/rajskider/Leet-Code/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/rajskider/Leet-Code/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajskider/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajskider/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajskider/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
