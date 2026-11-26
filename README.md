@@ -125,6 +125,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/rajskider/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/rajskider/Leet-Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajskider/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/rajskider/Leet-Code/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajskider/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajskider/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rajskider/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -294,6 +295,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajskider/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/rajskider/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajskider/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/rajskider/Leet-Code/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
