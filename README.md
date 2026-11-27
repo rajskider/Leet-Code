@@ -25,6 +25,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rajskider/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajskider/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/rajskider/Leet-Code/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/rajskider/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajskider/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rajskider/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -80,6 +81,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rajskider/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rajskider/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajskider/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/rajskider/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajskider/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rajskider/Leet-Code/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rajskider/Leet-Code/tree/master/0278-first-bad-version) |
@@ -384,6 +386,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rajskider/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rajskider/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajskider/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
@@ -401,6 +404,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rajskider/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajskider/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1732-find-the-highest-altitude](https://github.com/rajskider/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/rajskider/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
